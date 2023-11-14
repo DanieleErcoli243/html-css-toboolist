@@ -65,4 +65,27 @@ h1{
     border: 1px solid rgb(163, 156, 156);
 }
 
+.items{
+    
+    list-style-type: none;
+    padding-left: 25px;
+    padding-top: 30px;
+}
+
+
+
+
+.circle{
+    border-radius: 50%;
+}
+
+.check{
+    border: 1px solid rgb(78, 177, 78);
+}
+
+.cross{
+    border: 1px solid red;
+}
+    
+
 
