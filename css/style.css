@@ -10,6 +10,7 @@ body{
     background-color: rgb(160, 157, 157);
 }
 
+/* header */
 .header-container{
     background-color: white;
     height: 70px;
@@ -24,3 +25,6 @@ h1{
 .logo{
     vertical-align: middle;
 }
+
+
+
