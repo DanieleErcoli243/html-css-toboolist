@@ -33,18 +33,36 @@ h1{
     max-width: 650px;
     margin: 0 auto;
     margin-top: 10px;
+    
 }
 
 .upper{
     height: 40px;
+    border-radius: 5px 5px 0 0;
+    text-align: left;
+    padding-left: 25px;
+    padding-top: 7px;
 }
 
 .lower{
     height: 450px;
+    border-radius: 0 0 5px 5px;
 }
 
 .button{
+    border-radius: 5px;
+    font-size: 20px;
+}
 
+.left{
+    background-color: rgb(60, 147, 241);
+    border: 1px solid rgb(39, 39, 243);
+}
+
+.right{
+    background-color: white;
+    color: rgb(163, 156, 156);
+    border: 1px solid rgb(163, 156, 156);
 }
 
 
