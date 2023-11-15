@@ -70,7 +70,7 @@ li{
     
     list-style-type: none;
     padding-left: 25px;
-    padding-top: 15px;
+    padding-top: 20px;
 }
 
 
@@ -88,5 +88,38 @@ li{
     border: 1px solid red;
 }
     
+.label{
+    border-radius: 10px;
+    color: white;
+}
 
+.blue{
+    background-color: rgb(56, 131, 243);
+    border: 1px solid rgb(43, 124, 244);
+}
 
+.purple{
+    background-color: rgb(127, 26, 127);
+    border: 1px solid rgb(127, 19, 127);
+}
+
+.green{
+    background-color: rgb(60, 176, 60);
+    border: 1px solid rgb(60, 176, 60);
+}
+
+.orange{
+    background-color: orange;
+    border: 1px solid rgb(218, 142, 0);
+}
+
+.crimson{
+    background-color: rgb(220, 20, 110);
+    border: 1px solid rgb(220, 11, 53);
+}
+
+.lgreen{
+    background-color: rgb(204, 236, 130);
+    border: 1px solid rgb(189, 229, 94);
+
+}
