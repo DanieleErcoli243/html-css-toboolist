@@ -78,6 +78,11 @@ li{
 
 .circle{
     border-radius: 50%;
+    display: inline-block;
+    height: 18px;
+    width: 18px;
+    line-height: 18px;
+    text-align: center;
 }
 
 .check{
@@ -91,6 +96,9 @@ li{
 .label{
     border-radius: 10px;
     color: white;
+    display: inline-block;
+    height: 18px;
+    line-height: 18px;
 }
 
 .blue{
